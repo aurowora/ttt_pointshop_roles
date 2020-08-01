@@ -9,7 +9,7 @@ No additional configuration past installing the addon on to your server is requi
 |Configuration Option|Default|Description|
 |--------------------|-------|-----------|
 |AllowedGroups|nil|A table containing all groups that are allowed to purchase passes. `nil` means that there are no restrictions|
-|TraitorPassFreq|nil|A table that sets how often players of certain groups are allowed to purchase T passes in rounds. The keys are the group names and the values are integers. `nil means there are no restrictions.|
+|TraitorPassFreq|nil|A table that sets how often players of certain groups are allowed to purchase T passes in rounds. The keys are the group names and the values are integers. `nil` means there are no restrictions.|
 |DetectivePassFreq|nil|Same thing as TraitorPassFreq but for Detectives.|
 |GlobalPassFreq|7|Similar to DetectivePassFreq / TraitorPassFreq, but serves as the catch all value for any groups not mentioned in those tables. `nil` means there are no restrictions.|
 |MaxTPassesPerRound|0.5|The percentage of traitors that are allowed to be selected based on T passes per round. Values above 0.5 are recommended.|
