@@ -2,6 +2,8 @@
 
 Implements Traitor and Detective passes that can be purchased from the Pointshop. The Addon is compatible with the Open Source version of [Pointshop](https://pointshop.burt0n.net), but not Pointshop 2 (A PR is welcome!).
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K34MSYX)
+
 ### Configuration
 
 No additional configuration past installing the addon on to your server is required, however there are several configuration options provided in lua/ttt_pointshop_roles/config.lua to make the addon more suited to your use case.
