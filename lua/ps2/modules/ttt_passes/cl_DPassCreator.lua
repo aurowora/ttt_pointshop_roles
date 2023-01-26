@@ -93,7 +93,7 @@ function PANEL:SaveItem(saveTable)
 end
 
 function PANEL:EditItem(persistence, itemClass)
-    -- self.BaseClass.EditItem(self, persistence.ItemPersistence, itemClass)
+    self.BaseClass.EditItem(self, persistence.ItemPersistence, itemClass)
 
     self.manualEntry:SetText(persistence.material)
     self.materialPanel:SetMaterial(persistence.material)
