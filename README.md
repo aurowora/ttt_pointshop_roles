@@ -1,6 +1,6 @@
 # ttt_pointshop_passes
 
-Implements Traitor and Detective passes that can be purchased from the Pointshop. The Addon is compatible with the Open Source version of [Pointshop](https://pointshop.burt0n.net), but not Pointshop 2 (A PR is welcome!).
+Implements Traitor and Detective passes that can be purchased from the Pointshop. The Addon is compatible with the Open Source version of [Pointshop](https://pointshop.burt0n.net) and [Pointshop 2](https://github.com/Kamshak/Pointshop2/).
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K34MSYX)
 
